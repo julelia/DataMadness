@@ -45,7 +45,7 @@ Burnley,Aston Villa,Jan. 1,H,"Goal for Villa's Jack Grealish ruled out on review
 Burnley,Bournemouth,Feb. 22,H,Goal for Josh King ruled out for handball in build-up by Philip Billing,22nd minute,FOR
 Burnley,Bournemouth,Feb. 22,H,"Goal for Harry Wilson ruled out for handball by Bournemouth's Adam Smith, penalty awarded and scored by Jay Rodriguez",57th minute,FOR
 Burnley,Man City,June 22,A,Penalty given (scored by Riyad Mahrez) for a foul by Ben Mee on Sergio Aguero,45th minute,AGAINST
-Burnley,Norwich,July 18,A,Red card for Emiliano Buendia for an elbow on Ashley Westwood,33rd minute,FOR
+Burnley,Norwich,July 18,A,Red card for Emiliano Buendia for an elbow on Ashley Westwood,33rd minute,AGAINST
 Burnley,Brighton,July 26,H,Jay Rodriguez goal ruled out for offside against Johann Berg Gudmundsson,57th minute,AGAINST
 Newcastle,Sheffield United,Dec. 5,A,"Jonjo Shelvey goal, originally ruled out for offside, cleared by the VAR",70th minute,FOR
 Newcastle,Southampton,March 7,A,Moussa Djenepo sent off for challenge on Isaac Hayden,28th minute,FOR
@@ -138,7 +138,7 @@ AFC Bournemouth,West Ham,Sept. 28,H,"Josh King goal, originally ruled out for of
 AFC Bournemouth,Chelsea,Dec. 14,A,"Dan Gosling goal, originally disallowed for offside, given by the VAR",84th minute,FOR
 AFC Bournemouth,Brighton,Dec. 28,A,Dan Burn goal ruled out for offside,58th minute,FOR
 AFC Bournemouth,West Ham,Jan. 1,A,Aaron Cresswell red card downgraded to yellow,76th minute,AGAINST
-AFC Bournemouth,Norwich,Jan. 18,A,Red card for Ben Godfrey for foul on Callum Wilson,76th minute,FOR
+AFC Bournemouth,Norwich,Jan. 18,A,Red card for Ben Godfrey for foul on Callum Wilson,76th minute,AGAINST
 AFC Bournemouth,Burnley,Feb. 22,A,Goal for Josh King ruled out for handball in build-up by Philip Billing,22nd minute,AGAINST
 AFC Bournemouth,Burnley,Feb. 22,A,"Goal for Harry Wilson ruled out for handball by Bournemouth's Adam Smith, penalty awarded and scored by Jay Rodriguez",57th minute,AGAINST
 AFC Bournemouth,Tottenham,July 9,H,Goal for Callum Wilson ruled out for handball by Josh King,90th minute,AGAINST
@@ -213,7 +213,7 @@ Norwich City,Arsenal,Dec. 1,H,Pierre-Emerick Aubameyang missed penalty retaken (
 Norwich City,Sheffield United,Dec. 8,H,Red card for Chris Basham rescinded,74th minute,AGAINST
 Norwich City,Tottenham,Dec. 28,H,Teemu Pukki goal ruled out for offside,33rd minute,AGAINST
 Norwich City,Crystal Palace,Jan. 1,H,Connor Wickham goal awarded after originally being ruled out for offside,85th minute,AGAINST
-Norwich City,Bournemouth,Jan. 18,H,Red card for Ben Godfrey for foul on Callum Wilson,76th minute,AGAINST
+Norwich City,Bournemouth,Jan. 18,H,Red card for Ben Godfrey for foul on Callum Wilson,76th minute,FOR
 Norwich City,Leicester,Feb. 28,H,Goal for Kelechi Iheanacho disallowed for handball,49th minute,FOR
-Norwich City,Burnley,July 18,H,Red card for Emiliano Buendia for an elbow on Ashley Westwood,33rd minute,AGAINST
+Norwich City,Burnley,July 18,H,Red card for Emiliano Buendia for an elbow on Ashley Westwood,33rd minute,FOR
 Norwich City,Man City,July 26,A,Goal for Onel Hernandez ruled out for offside,7th minute,AGAINST
