@@ -2,7 +2,7 @@
 
 The following project was made by Data Science and Knowledge Engineering students from Maastricht University.
 
-You can find the Youtube video explaining this project [here](https://youtu.be/QpULpN6WUao).
+You can find the Youtube video explaining this project [here](https://youtu.be/tcUJh1SV7yI).
 
 To run this repo, you should download everything that is in it and store the .CSV files in the same folders as the .ipynb file and run it.
 
