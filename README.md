@@ -2,7 +2,7 @@ The following project was made by Data Science and Knowledge Engineering student
 
 You can find the Youtube video explaining this project [here](https://youtu.be/QpULpN6WUao).
 
-To run this repo, you should download everything that is in it and store the .CSV files in the same folders as the .ipynb.
+To run this repo, you should download everything that is in it and store the .CSV files in the same folders as the .ipynb file and run it.
 
 Here is an overivew of the content of this repo:
 
