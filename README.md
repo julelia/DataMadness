@@ -1,4 +1,4 @@
-#How did VAR influence the 2019-2020 Premier League season?
+# How did VAR influence the 2019-2020 Premier League season?
 
 The following project was made by Data Science and Knowledge Engineering students from Maastricht University.
 
